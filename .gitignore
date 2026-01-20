@@ -1,0 +1,17 @@
+# Build artifacts
+build/
+**/build/
+
+# Pico outputs
+*.uf2
+*.bin
+*.elf
+*.map
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Python
+__pycache__/
